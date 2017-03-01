@@ -8,4 +8,4 @@ Flood kahoot game remotely
 ###### [*] basename=(string) your base name (amit) = amit + x
 
 
-![alt tag](https://raw.githubusercontent.com/avramit/KahootFloodServer/master/screenshot.png)
+![alt tag](https://raw.githubusercontent.com/avramit/KahootFloodServer/master/screenshot.PNG)
